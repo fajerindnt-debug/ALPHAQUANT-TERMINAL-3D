@@ -5,7 +5,6 @@
 # CSV can contain: time (optional), price (required), volume (optional)
 # ================================================================
 
-!pip -q install numpy pandas plotly
 
 import numpy as np
 import pandas as pd
